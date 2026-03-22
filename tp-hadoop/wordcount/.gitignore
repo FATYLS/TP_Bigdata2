@@ -1,0 +1,4 @@
+target/
+*.class
+*.log
+input.txt # si tu veux pas pousser les fichiers temporaires
